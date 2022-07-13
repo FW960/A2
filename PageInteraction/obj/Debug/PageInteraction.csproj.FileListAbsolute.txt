@@ -1,0 +1,20 @@
+C:\Users\windo\source\repos\ASP.NET\WEB API\PageInteraction\bin\Debug\PageInteraction.dll
+C:\Users\windo\source\repos\ASP.NET\WEB API\PageInteraction\bin\Debug\PageInteraction.pdb
+C:\Users\windo\source\repos\ASP.NET\WEB API\PageInteraction\bin\Debug\Entities.dll
+C:\Users\windo\source\repos\ASP.NET\WEB API\PageInteraction\bin\Debug\WebDriver.dll
+C:\Users\windo\source\repos\ASP.NET\WEB API\PageInteraction\bin\Debug\Entities.pdb
+C:\Users\windo\source\repos\ASP.NET\WEB API\PageInteraction\obj\Debug\PageInteraction.csproj.AssemblyReference.cache
+C:\Users\windo\source\repos\ASP.NET\WEB API\PageInteraction\obj\Debug\PageInteraction.csproj.CoreCompileInputs.cache
+C:\Users\windo\source\repos\ASP.NET\WEB API\PageInteraction\obj\Debug\PageInteraction.csproj.CopyComplete
+C:\Users\windo\source\repos\ASP.NET\WEB API\PageInteraction\obj\Debug\PageInteraction.dll
+C:\Users\windo\source\repos\ASP.NET\WEB API\PageInteraction\obj\Debug\PageInteraction.pdb
+C:\Users\windo\source\repos\Task\PageInteraction\bin\Debug\PageInteraction.dll
+C:\Users\windo\source\repos\Task\PageInteraction\bin\Debug\PageInteraction.pdb
+C:\Users\windo\source\repos\Task\PageInteraction\bin\Debug\Entities.dll
+C:\Users\windo\source\repos\Task\PageInteraction\bin\Debug\WebDriver.dll
+C:\Users\windo\source\repos\Task\PageInteraction\bin\Debug\Entities.pdb
+C:\Users\windo\source\repos\Task\PageInteraction\obj\Debug\PageInteraction.csproj.AssemblyReference.cache
+C:\Users\windo\source\repos\Task\PageInteraction\obj\Debug\PageInteraction.csproj.CoreCompileInputs.cache
+C:\Users\windo\source\repos\Task\PageInteraction\obj\Debug\PageInteraction.csproj.CopyComplete
+C:\Users\windo\source\repos\Task\PageInteraction\obj\Debug\PageInteraction.dll
+C:\Users\windo\source\repos\Task\PageInteraction\obj\Debug\PageInteraction.pdb

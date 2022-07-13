@@ -1,0 +1,56 @@
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\bin\Debug\DbRepository.dll.config
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\bin\Debug\DbRepository.dll
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\bin\Debug\DbRepository.pdb
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\bin\Debug\Entities.dll
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\bin\Debug\System.Buffers.dll
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\bin\Debug\System.Memory.dll
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\bin\Debug\System.Text.Json.dll
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\bin\Debug\System.ValueTuple.dll
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\bin\Debug\Entities.pdb
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\bin\Debug\System.Buffers.xml
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\bin\Debug\System.Memory.xml
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\bin\Debug\System.Text.Json.xml
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\bin\Debug\System.ValueTuple.xml
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\obj\Debug\Repo.csproj.AssemblyReference.cache
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\obj\Debug\Repo.csproj.CoreCompileInputs.cache
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\obj\Debug\Repo.csproj.CopyComplete
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\obj\Debug\DbRepository.dll
+C:\Users\windo\source\repos\ASP.NET\WEB API\DbRepository\obj\Debug\DbRepository.pdb
+C:\Users\windo\source\repos\Task\DbRepository\bin\Debug\DbRepository.dll.config
+C:\Users\windo\source\repos\Task\DbRepository\bin\Debug\DbRepository.dll
+C:\Users\windo\source\repos\Task\DbRepository\bin\Debug\DbRepository.pdb
+C:\Users\windo\source\repos\Task\DbRepository\bin\Debug\Entities.dll
+C:\Users\windo\source\repos\Task\DbRepository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\windo\source\repos\Task\DbRepository\bin\Debug\System.Buffers.dll
+C:\Users\windo\source\repos\Task\DbRepository\bin\Debug\System.Memory.dll
+C:\Users\windo\source\repos\Task\DbRepository\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\windo\source\repos\Task\DbRepository\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\windo\source\repos\Task\DbRepository\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\windo\source\repos\Task\DbRepository\bin\Debug\System.Text.Json.dll
+C:\Users\windo\source\repos\Task\DbRepository\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\windo\source\repos\Task\DbRepository\bin\Debug\System.ValueTuple.dll
+C:\Users\windo\source\repos\Task\DbRepository\bin\Debug\Entities.pdb
+C:\Users\windo\source\repos\Task\DbRepository\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\windo\source\repos\Task\DbRepository\bin\Debug\System.Buffers.xml
+C:\Users\windo\source\repos\Task\DbRepository\bin\Debug\System.Memory.xml
+C:\Users\windo\source\repos\Task\DbRepository\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\windo\source\repos\Task\DbRepository\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\windo\source\repos\Task\DbRepository\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\windo\source\repos\Task\DbRepository\bin\Debug\System.Text.Json.xml
+C:\Users\windo\source\repos\Task\DbRepository\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\windo\source\repos\Task\DbRepository\bin\Debug\System.ValueTuple.xml
+C:\Users\windo\source\repos\Task\DbRepository\obj\Debug\Repo.csproj.AssemblyReference.cache
+C:\Users\windo\source\repos\Task\DbRepository\obj\Debug\Repo.csproj.CoreCompileInputs.cache
+C:\Users\windo\source\repos\Task\DbRepository\obj\Debug\Repo.csproj.CopyComplete
+C:\Users\windo\source\repos\Task\DbRepository\obj\Debug\DbRepository.dll
+C:\Users\windo\source\repos\Task\DbRepository\obj\Debug\DbRepository.pdb
