@@ -1,0 +1,12 @@
+C:\Users\windo\source\repos\ASP.NET\WEB API\Entities\bin\Debug\Entities.dll
+C:\Users\windo\source\repos\ASP.NET\WEB API\Entities\bin\Debug\Entities.pdb
+C:\Users\windo\source\repos\ASP.NET\WEB API\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\windo\source\repos\ASP.NET\WEB API\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\windo\source\repos\ASP.NET\WEB API\Entities\obj\Debug\Entities.dll
+C:\Users\windo\source\repos\ASP.NET\WEB API\Entities\obj\Debug\Entities.pdb
+C:\Users\windo\source\repos\Task\Entities\bin\Debug\Entities.dll
+C:\Users\windo\source\repos\Task\Entities\bin\Debug\Entities.pdb
+C:\Users\windo\source\repos\Task\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\windo\source\repos\Task\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\windo\source\repos\Task\Entities\obj\Debug\Entities.dll
+C:\Users\windo\source\repos\Task\Entities\obj\Debug\Entities.pdb
